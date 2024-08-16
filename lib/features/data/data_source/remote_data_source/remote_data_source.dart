@@ -5,8 +5,7 @@ import '../../../../core/error/failure/failure.dart';
 import '../../../domain/entities/user_entity.dart';
 
 abstract class CoffeeRemoteDataSource{
-
-
+  
   Future<Either<Failure,CoffeeModel>>getCoffee(String id);
 
   Future<Either<Failure,List<CoffeeModel>>> getALLCoffee();
