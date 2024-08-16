@@ -15,7 +15,10 @@ dependencies:
 
   cupertino_icons: ^1.0.6
   get: any
+  provider: ^6.0.5
+  equatable: ^2.0.5
   fluttertoast: ^8.2.6
+  dartz: ^0.10.1
 
 dev_dependencies:
   flutter_test:

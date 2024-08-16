@@ -1,7 +1,7 @@
-import 'package:coffee_shop/presentation/dashboard/dashboard_screen.dart';
-import 'package:coffee_shop/presentation/onboarding/onboarding.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+
+import 'features/presentation/pages/onboarding/onboarding.dart';
 
 void main() {
   runApp(const MyApp());
