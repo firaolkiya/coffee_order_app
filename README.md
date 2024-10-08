@@ -1,16 +1,41 @@
-# coffee_shop
+## Coffee Order App Documentation
+### Overview
+The Coffee Order App is a beautifully designed mobile application built using Flutter, focused on providing a smooth and visually attractive user experience. It allows users to browse through a wide variety of coffees, view details such as price and quantity, place orders, mark their favorite coffees, and track their order history. The app incorporates various screens to enhance user interaction, ensuring a seamless coffee ordering experience.
 
-A new Flutter project.
+## Features
+## Home Screen:
 
-## Getting Started
+- Displays a list of available coffees.
+- Shows each coffee’s price, description, and image.
+- Smooth scrolling experience with attractive UI elements.
+# Detail Screen:
 
-This project is a starting point for a Flutter application.
+- Provides detailed information about a selected coffee.
+- Shows the coffee's image, description, price, and quantity.
+- Users can add the coffee to their cart or mark it as a favorite.
+  
 
-A few resources to get you started if this is your first Flutter project:
+# Payment Screen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Users can proceed to checkout after selecting the desired coffee.
+- Payment gateway integration for secure transactions.
+- Shows the summary of the user's order, including the selected items, total price, and quantity.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# History Screen:
+
+- Displays a log of the user’s past coffee orders.
+- Shows the date, time, and details of each order.
+- Allows users to reorder a previously purchased coffee.
+  
+# Favorite Screen:
+
+- Users can view their favorite coffees added from the detail screen.
+- Allows users to directly order from their list of favorites.
+
+
+On the Detail Screen, tap the “Favorite” icon to add the coffee to your favorites list for easy future access.
+Check Order History:
+
+Navigate to the History Screen to view all your past orders and reorder with a single tap.
+Conclusion
+The Coffee Order App offers a comprehensive coffee browsing and ordering experience with a focus on a smooth and engaging UI. Whether it’s browsing new coffees, managing favorites, or keeping track of past orders, the app makes the coffee-ordering process enjoyable and convenient for users.
