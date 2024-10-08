@@ -32,5 +32,5 @@ The Coffee Order App is a beautifully designed mobile application built using Fl
 - Users can view their favorite coffees added from the detail screen.
 - Allows users to directly order from their list of favorites.
 
-Conclusion
+##Conclusion    
 The Coffee Order App offers a comprehensive coffee browsing and ordering experience with a focus on a smooth and engaging UI. Whether it’s browsing new coffees, managing favorites, or keeping track of past orders, the app makes the coffee-ordering process enjoyable and convenient for users.
